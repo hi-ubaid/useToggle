@@ -1,0 +1,1 @@
+This is a simple custom Hook created in React, you can use it in your own code for toggling states.
